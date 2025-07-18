@@ -1,8 +1,7 @@
+
 import typing
 from pathlib import Path
-
 import instructor
-
 from wtpsplit import SaT
 from openai import OpenAI
 
