@@ -1,8 +1,7 @@
+
 import re
 import typing
-
 import pytest
-
 from unittest.mock import MagicMock
 from wtpsplit import SaT
 
