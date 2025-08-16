@@ -1,4 +1,4 @@
-[project]
+ [project]
 name = "yt2doc"
 dynamic = ["version"]
 description = "Transcribe any YouTube video into a structural Markdown document"
