@@ -4,7 +4,7 @@
 
 yt2doc transcribes videos & audios online into readable Markdown documents.
 
-Supported video/audio sources:
+Supported video/audio sources: 
 * YouTube
 * Apple Podcasts
 * Twitter
