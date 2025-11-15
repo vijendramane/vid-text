@@ -10,7 +10,7 @@ resolution-markers = [
 name = "adapters" 
 version = "1.0.0"
 source = { registry = "https://pypi.org/simple" }
-dependencies = [
+dependencies = [ 
     { name = "transformers" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/de/56/32a2fd4e84b600eeb1f72fd44571e5d708c1741f05bbba1e98b2b1d1a1c4/adapters-1.0.0.tar.gz", hash = "sha256:c099471f045ffca9463cd3d252d7e3e8d7d034796f4f468eb092d747a4cd20c3", size = 224826 }
